@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0164-maximum-gap) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
