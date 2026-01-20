@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## String
 |  |
@@ -58,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0125-valid-palindrome) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
