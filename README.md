@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [2965-find-missing-and-repeated-values](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -77,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
