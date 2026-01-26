@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Sorting
 |  |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Math
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -69,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0062-unique-paths) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
