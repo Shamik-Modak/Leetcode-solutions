@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Matrix
 |  |
 | ------- |
