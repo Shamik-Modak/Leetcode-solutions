@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Math
 |  |
 | ------- |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
+## Enumeration
+|  |
+| ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Shamik-Modak/Leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 <!---LeetCode Topics End-->
